@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81348513564",
+    "project_id": "artificialmar",
+    "storage_bucket": "artificialmar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81348513564:android:cd712195d2d36ac28974d9",
+        "android_client_info": {
+          "package_name": "com.example.artificial_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL3jagmwNcIvYCja_JwfR5Z8Ef4gFHqMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
