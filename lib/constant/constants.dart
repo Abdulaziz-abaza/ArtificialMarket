@@ -5,6 +5,7 @@ class AppColors {
   static const Color accentColor = Color(0xFFFFD700);
   static const Color backgroundColor = Color(0xFFF5F5F5);
   static const Color textColor = Color(0xFF333333);
+  static const Color greyColor = Color(0xFF999999);
 }
 
 class FontSizes {
